@@ -1,0 +1,20 @@
+.selected {
+  background-color: blue;
+  color: white;
+}
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.platform-parent {
+  display: flex;
+}
+.platform-child {
+  border: 1px solid black;
+}
+.tree-row {
+  white-space: nowrap;
+}
